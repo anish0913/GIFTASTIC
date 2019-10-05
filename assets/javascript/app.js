@@ -14,7 +14,7 @@ $("#movieList-buttons").empty();
 	}
 }
 	renderButtons();
-
+	
 // Button for movies entered
 $("#add-movie").on("click", function () 
 {
